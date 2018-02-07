@@ -12,31 +12,32 @@
 <!-- /MarkdownTOC -->
 
 
-Github has become a useful tool for developing and showcasing coding projects. Employers often value candidates who have a github profile. MSBA faculty members are also increasinlgy leveraging github.umn.edu in teaching and student projects. Questions arise regarding the use of Github, especially the [UMN github](github.umn.com), which is an Enterprise Github system that is inaccessible from outside of UMN. 
+Github has become a useful tool for developing and showcasing coding projects. Employers often value candidates who have a meaningful github profile. In the mean time, MSBA faculty members are also increasingly leveraging github.umn.edu for teaching and student projects. As MSBA students use Github more frequently, questions arise, especially regarding sharing course related repositories, how to use UMN github (github.umn.edu), which is an Enterprise Github system that is separated from the public Github(github.com) and inaccessible from outside of UMN. 
 
 ### 1. Can I make my repositories public? 
 
-You can choose your repositories to be private or public (within the github.umn.edu). It is important to note that you:
+You can choose your repositories to be private or public (including within the github.umn.edu). It is important to note that you:
 
-- Should not make your assignments or exam related repositories (either the questions or the answers) public, for these are deterimental to future students' learning exepreinces.
-- Should not never make your CAL project or live case related repositories public as this violates the confidentiality agreement with our corporate partners. In fact, you should check whether you are allowed to put CAL project/live case in UMN github in the first place. 
-- Certain Professors may allow you to share certain course related repositories publically (e.g. the trend marketplace projects for the big data course), but you should ask before proceeding.
-- Should feel free to make your personal projects public (in fact, you are encouraged to start such projects on the public Github).
+- Should not make your *assignments or exam related repositories* (either the questions or the answers) public, for these are detrimental to future students' learning experiences.
+- Should not never make your *CAL project or live case related repositories* public as this violates the confidentiality agreement with our corporate partners. In fact, you should check whether you are allowed to put CAL project/live case in UMN github in the first place. 
+- Certain Professors may allow you to share certain course related repositories publicly (e.g. the trend marketplace projects for the big data course), but you should ask before proceeding.
+- Should feel free to make your *personal projects* public (in fact, you are encouraged to start such projects on the public Github).
 
 Before you make a repository public (in fact, when you create any repository), [**it is important to make sure that your committed codes do not contain passwords, API keys, or other sensitive information.**](#4-how-do-i-deal-with-sensitive-information-in-a-github-repository) 
 
 
 ### 2. Can I take my UMN repositories and put them on public Github?
 
-Moreover, once you graduate from U of Minnesota, the respositories that belong to you [will be removed](https://it.umn.edu/git-frequently-asked-questions) with four weeks notice. If you want to take some of these repositories with you, it is important to read the following.
+Once you graduate from U of Minnesota, the repositories that belong to you [will be removed](https://it.umn.edu/git-frequently-asked-questions) will be removed with four weeks notice. If you want to take some of these repositories with you, it is important to read the following.
 
-The public Github defaults all repositories to be public to the world, unless you have a paid account. So, in many cases, moving your repositories to Github means that you are making it public. As such, the same considerations mentioned in [Bullet 1](#1-can-i-make-my-repositories-public) apply when you are deciding whether you can move a repository from UMN to public github. 
+First, the public Github defaults all repositories to be public to the world, unless you have a paid account. So, in many cases, moving your repositories to Github means that you are making it public. As such, the same considerations mentioned in [Bullet 1](#1-can-i-make-my-repositories-public) apply when you are deciding whether you can move a repository from UMN to public github. 
 
 Therefore, we additionally recommend the following:
 
-- It is advisable to create your **personal projects** on public Github instead of UMN github, since the goal of these are to share and show case. If you have started such projects on UMN github, you are encouraged to move it to public Github before graduation. 
+- It is advisable to create your *personal projects* on public Github instead of UMN github, since the goal of these are to share and show case. 
+- If you have already started your personal projects on UMN github, you are encouraged to move it to public Github before graduation. 
 - You should ask your professor whether it is okay to share certain *course-related repositories* (e.g. your final project) publicly before you take them to the public Github. 
-- **If you have a paid account**, you could save a private copy of your course-related repositories on Github, but still it is a good idea to check with the professor first.
+- *If you have a paid account*, you may be allowed to save a private copy of certain course-related repositories on Github, but check with your professor first.
 
 ### 3. How do I take a UMN repository and put it on public Github?
 
