@@ -48,8 +48,11 @@ It is actually pretty simple.
 - **Step 2**: Create a blank repository on the public Github (say, `https://github.com/smith/myrepo`) -- **do not initialize the repository with a README**.
 
 - **Step 3**: Change the remote to the public github repo
-```
-git remote set-url https://github.com/smith/myrepo
+```bash
+# first detach from your umn repo
+git remote rm origin   
+# then set public git repo as your new remote
+git remote add origin https://github.com/smith/myrepo
 ```
 You can also list verify the remote URL of your local repository with command `git remote -v`.
 - **Step 4**: Push the repo to the new Public github repository.
