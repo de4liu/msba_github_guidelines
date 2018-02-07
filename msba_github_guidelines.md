@@ -19,7 +19,7 @@ Github has become a useful tool for developing and showcasing coding projects. E
 You can choose your repositories to be private or public (including within the github.umn.edu). It is important to note that you:
 
 - Should not make your *assignments or exam related repositories* (either the questions or the answers) public, for these are detrimental to future students' learning experiences.
-- Should not never make your *CAL project or live case related repositories* public as this violates the confidentiality agreement with our corporate partners. In fact, you should check whether you are allowed to put CAL project/live case in UMN github in the first place. 
+- Should never make your *CAL project or live case related repositories* public as this violates the confidentiality agreement with our corporate partners. In fact, you should check whether you are allowed to put CAL project/live case in UMN github in the first place. 
 - Certain Professors may allow you to share certain course related repositories publicly (e.g. the trend marketplace projects for the big data course), but you should ask before proceeding.
 - Should feel free to make your *personal projects* public (in fact, you are encouraged to start such projects on the public Github).
 
