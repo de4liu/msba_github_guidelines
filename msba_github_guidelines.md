@@ -14,6 +14,8 @@
 
 Github has become a useful tool for developing and showcasing coding projects. Employers often value candidates who have a meaningful github profile. In the mean time, MSBA faculty members are also increasingly leveraging github.umn.edu for teaching and student projects. As MSBA students use Github more frequently, questions arise, especially regarding sharing course related repositories, how to use UMN github (github.umn.edu), which is an Enterprise Github system that is separated from the public Github(github.com) and inaccessible from outside of UMN. 
 
+For general information on how to use Github, please checkout this [Lynda.com online course - Learning Git and Github](https://www.lynda.com/Git-tutorials/Up-Running-Git-GitHub/409275-2.html?srchtrk=index%3a1%0alinktypeid%3a2%0aq%3agithub%0apage%3a1%0as%3arelevance%0asa%3atrue%0aproducttypeid%3a2)
+
 ### 1. Can I make my repositories public? 
 
 You can choose your repositories to be private or public (including within the github.umn.edu). It is important to note that you:
